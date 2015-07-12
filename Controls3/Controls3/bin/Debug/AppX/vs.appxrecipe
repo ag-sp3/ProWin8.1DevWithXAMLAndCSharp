@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HISGEND</Machine>
+    <WindowsUser>Alexander Guan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>df793338-55cd-4c3c-a165-536c5b854b71</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9EB58355EE70447CD87695FC28A5197693156DCE8F700BAFFC4807EDDE07A5D7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>df793338-55cd-4c3c-a165-536c5b854b71_1.0.0.0_neutral__ndks04g3bepgj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>df793338-55cd-4c3c-a165-536c5b854b71_ndks04g3bepgj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>df793338-55cd-4c3c-a165-536c5b854b71</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Alexander Guan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-12T08:46:21.281</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\bin\Debug\Controls3.exe">
+      <PackagePath>Controls3.exe</PackagePath>
+      <Modified>2015-07-12T08:47:22.289</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-12T08:46:20.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-12T08:47:22.060</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\bin\Debug\Controls3.xr.xml">
+      <PackagePath>Controls3.xr.xml</PackagePath>
+      <Modified>2015-07-12T08:47:22.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls3\Controls3\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-12T08:46:21.201</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

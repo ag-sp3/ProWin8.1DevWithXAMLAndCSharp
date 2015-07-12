@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HISGEND</Machine>
+    <WindowsUser>Alexander Guan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5e2dde32-0ef0-43cd-ae48-9150deafd1ae</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>234A18396D6A314B80A3C4AC18C84C48FC5221DD1D4C04BD5BEC5385349BA874</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>5e2dde32-0ef0-43cd-ae48-9150deafd1ae_1.0.0.0_neutral__ndks04g3bepgj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>5e2dde32-0ef0-43cd-ae48-9150deafd1ae_ndks04g3bepgj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>5e2dde32-0ef0-43cd-ae48-9150deafd1ae</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Alexander Guan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-12T10:08:31.191</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\bin\Debug\Controls5A.exe">
+      <PackagePath>Controls5A.exe</PackagePath>
+      <Modified>2015-07-12T10:08:30.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-22T22:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-12T10:08:30.711</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-12T10:08:30.716</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\bin\Debug\Controls5A.xr.xml">
+      <PackagePath>Controls5A.xr.xml</PackagePath>
+      <Modified>2015-07-12T10:08:30.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\alexander guan\documents\visual studio 2013\Projects\Controls5A\Controls5A\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-12T10:08:31.046</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
